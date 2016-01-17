@@ -1,4 +1,4 @@
 # easy-torrent
 easy torrent download w/kickass
 
--Every time just one torrent download.
+-Every time just one torrent(movie,music..) download.
