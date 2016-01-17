@@ -1,0 +1,18 @@
+c:\users\canbrk1408\documents\visual studio 2013\Projects\dizii\dizii\bin\Debug\dizii.exe.config
+c:\users\canbrk1408\documents\visual studio 2013\Projects\dizii\dizii\bin\Debug\dizii.exe
+c:\users\canbrk1408\documents\visual studio 2013\Projects\dizii\dizii\bin\Debug\dizii.pdb
+c:\users\canbrk1408\documents\visual studio 2013\Projects\dizii\dizii\obj\Debug\dizii.csprojResolveAssemblyReference.cache
+c:\users\canbrk1408\documents\visual studio 2013\Projects\dizii\dizii\obj\Debug\dizii.Form1.resources
+c:\users\canbrk1408\documents\visual studio 2013\Projects\dizii\dizii\obj\Debug\dizii.Properties.Resources.resources
+c:\users\canbrk1408\documents\visual studio 2013\Projects\dizii\dizii\obj\Debug\dizii.csproj.GenerateResource.Cache
+c:\users\canbrk1408\documents\visual studio 2013\Projects\dizii\dizii\obj\Debug\dizii.exe
+c:\users\canbrk1408\documents\visual studio 2013\Projects\dizii\dizii\obj\Debug\dizii.pdb
+C:\Users\canbrk1408\Desktop\dizii\dizii\bin\Debug\dizii.exe.config
+C:\Users\canbrk1408\Desktop\dizii\dizii\obj\Debug\dizii.exe
+C:\Users\canbrk1408\Desktop\dizii\dizii\obj\Debug\dizii.pdb
+C:\Users\canbrk1408\Desktop\dizii\dizii\bin\Debug\dizii.exe
+C:\Users\canbrk1408\Desktop\dizii\dizii\bin\Debug\dizii.pdb
+C:\Users\canbrk1408\Desktop\dizii\dizii\obj\Debug\dizii.csprojResolveAssemblyReference.cache
+C:\Users\canbrk1408\Desktop\dizii\dizii\obj\Debug\dizii.Form1.resources
+C:\Users\canbrk1408\Desktop\dizii\dizii\obj\Debug\dizii.Properties.Resources.resources
+C:\Users\canbrk1408\Desktop\dizii\dizii\obj\Debug\dizii.csproj.GenerateResource.Cache
